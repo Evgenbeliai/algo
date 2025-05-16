@@ -1,4 +1,4 @@
-# 
+# 123
 import cv2
 shablon = cv2.CascadeClassifier(r'..\haarcascade_frontalface_default.xml')
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
@@ -16,4 +16,4 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
-yggygtg
+
